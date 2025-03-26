@@ -1,0 +1,46 @@
+﻿  Article.cpp
+  Commande.cpp
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Article.h(3,7): error C2011: 'Article' : redéfinition du type 'class'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier.h(3,7): error C2011: 'Panier' : redéfinition du type 'class'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Commande.h(9,12): error C2079: 'Commande::panier' utilise une class de 'Panier' non défini
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Commande.cpp(5,95): error C2027: utilisation du type non défini 'Panier'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Commande.cpp(5,95): error C2439: 'Commande::panier' : impossible d'initialiser le membre
+  Panier.cpp
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Article.h(3,7): error C2011: 'Article' : redéfinition du type 'class'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier.cpp(18,28): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier.cpp(29,39): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier.cpp(40,46): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier.cpp(44,57): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier.cpp(46,55): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier.cpp(56,46): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier.cpp(67,28): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier.cpp(78,21): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier.cpp(78,39): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier.cpp(85,28): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier.cpp(85,68): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier.cpp(95,21): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier.cpp(95,39): error C2027: utilisation du type non défini 'Article'
+  Panier_Virtuel2.cpp
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Article.h(3,7): error C2011: 'Article' : redéfinition du type 'class'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier.h(3,7): error C2011: 'Panier' : redéfinition du type 'class'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Commande.h(9,12): error C2079: 'Commande::panier' utilise une class de 'Panier' non défini
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier_Virtuel2.cpp(11,16): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier_Virtuel2.cpp(12,16): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier_Virtuel2.cpp(13,16): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier_Virtuel2.cpp(14,16): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier_Virtuel2.cpp(15,16): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier_Virtuel2.cpp(16,16): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier_Virtuel2.cpp(17,16): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier_Virtuel2.cpp(18,16): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier_Virtuel2.cpp(19,16): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier_Virtuel2.cpp(20,16): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier_Virtuel2.cpp(21,16): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier_Virtuel2.cpp(22,16): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier_Virtuel2.cpp(23,16): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier_Virtuel2.cpp(24,16): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier_Virtuel2.cpp(25,16): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier_Virtuel2.cpp(26,16): error C2027: utilisation du type non défini 'Article'
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier_Virtuel2.cpp(30,12): error C2079: 'panier' utilise une class de 'Panier' non défini
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier_Virtuel2.cpp(31,22): error C2665: 'Commande::Commande' : aucune fonction surchargée n’a pu convertir tous les types d’arguments.
+C:\Users\nasre\source\repos\Panier_Virtuel2\Panier_Virtuel2\Panier_Virtuel2.cpp(63,21): error C2027: utilisation du type non défini 'Article'
+  Génération de code en cours...

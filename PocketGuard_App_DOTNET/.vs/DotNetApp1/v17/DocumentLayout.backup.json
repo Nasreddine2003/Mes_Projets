@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nasre\\source\\repos\\DotNetApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41D0155B-8518-4E72-BB17-9EBD736BE73D}|DotNetApp1\\DotNetApp1.csproj|c:\\users\\nasre\\source\\repos\\dotnetapp1\\dotnetapp1\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D0155B-8518-4E72-BB17-9EBD736BE73D}|DotNetApp1\\DotNetApp1.csproj|solutionrelative:dotnetapp1\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D0155B-8518-4E72-BB17-9EBD736BE73D}|DotNetApp1\\DotNetApp1.csproj|c:\\users\\nasre\\source\\repos\\dotnetapp1\\dotnetapp1\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41D0155B-8518-4E72-BB17-9EBD736BE73D}|DotNetApp1\\DotNetApp1.csproj|solutionrelative:dotnetapp1\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D0155B-8518-4E72-BB17-9EBD736BE73D}|DotNetApp1\\DotNetApp1.csproj|c:\\users\\nasre\\source\\repos\\dotnetapp1\\dotnetapp1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41D0155B-8518-4E72-BB17-9EBD736BE73D}|DotNetApp1\\DotNetApp1.csproj|solutionrelative:dotnetapp1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D0155B-8518-4E72-BB17-9EBD736BE73D}|DotNetApp1\\DotNetApp1.csproj|c:\\users\\nasre\\source\\repos\\dotnetapp1\\dotnetapp1\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D0155B-8518-4E72-BB17-9EBD736BE73D}|DotNetApp1\\DotNetApp1.csproj|solutionrelative:dotnetapp1\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D0155B-8518-4E72-BB17-9EBD736BE73D}|DotNetApp1\\DotNetApp1.csproj|c:\\users\\nasre\\source\\repos\\dotnetapp1\\dotnetapp1\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41D0155B-8518-4E72-BB17-9EBD736BE73D}|DotNetApp1\\DotNetApp1.csproj|solutionrelative:dotnetapp1\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D0155B-8518-4E72-BB17-9EBD736BE73D}|DotNetApp1\\DotNetApp1.csproj|c:\\users\\nasre\\source\\repos\\dotnetapp1\\dotnetapp1\\views\\transaction\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41D0155B-8518-4E72-BB17-9EBD736BE73D}|DotNetApp1\\DotNetApp1.csproj|solutionrelative:dotnetapp1\\views\\transaction\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D0155B-8518-4E72-BB17-9EBD736BE73D}|DotNetApp1\\DotNetApp1.csproj|c:\\users\\nasre\\source\\repos\\dotnetapp1\\dotnetapp1\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D0155B-8518-4E72-BB17-9EBD736BE73D}|DotNetApp1\\DotNetApp1.csproj|solutionrelative:dotnetapp1\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D0155B-8518-4E72-BB17-9EBD736BE73D}|DotNetApp1\\DotNetApp1.csproj|c:\\users\\nasre\\source\\repos\\dotnetapp1\\dotnetapp1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{41D0155B-8518-4E72-BB17-9EBD736BE73D}|DotNetApp1\\DotNetApp1.csproj|solutionrelative:dotnetapp1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\nasre\\source\\repos\\DotNetApp1\\DotNetApp1\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "DotNetApp1\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\nasre\\source\\repos\\DotNetApp1\\DotNetApp1\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "DotNetApp1\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T00:48:50.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nasre\\source\\repos\\DotNetApp1\\DotNetApp1\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "DotNetApp1\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nasre\\source\\repos\\DotNetApp1\\DotNetApp1\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "DotNetApp1\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T00:42:21.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nasre\\source\\repos\\DotNetApp1\\DotNetApp1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DotNetApp1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nasre\\source\\repos\\DotNetApp1\\DotNetApp1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DotNetApp1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T00:41:22.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nasre\\source\\repos\\DotNetApp1\\DotNetApp1\\Views\\Transaction\\Index.cshtml",
+              "RelativeDocumentMoniker": "DotNetApp1\\Views\\Transaction\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nasre\\source\\repos\\DotNetApp1\\DotNetApp1\\Views\\Transaction\\Index.cshtml",
+              "RelativeToolTip": "DotNetApp1\\Views\\Transaction\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T00:15:31.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\nasre\\source\\repos\\DotNetApp1\\DotNetApp1\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "DotNetApp1\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\nasre\\source\\repos\\DotNetApp1\\DotNetApp1\\Models\\Transaction.cs",
+              "RelativeToolTip": "DotNetApp1\\Models\\Transaction.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T00:13:49.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddOrEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nasre\\source\\repos\\DotNetApp1\\DotNetApp1\\Views\\Transaction\\AddOrEdit.cshtml",
+              "RelativeDocumentMoniker": "DotNetApp1\\Views\\Transaction\\AddOrEdit.cshtml",
+              "ToolTip": "C:\\Users\\nasre\\source\\repos\\DotNetApp1\\DotNetApp1\\Views\\Transaction\\AddOrEdit.cshtml",
+              "RelativeToolTip": "DotNetApp1\\Views\\Transaction\\AddOrEdit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T00:07:48.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nasre\\source\\repos\\DotNetApp1\\DotNetApp1\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DotNetApp1\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\nasre\\source\\repos\\DotNetApp1\\DotNetApp1\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DotNetApp1\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T00:07:30.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\nasre\\source\\repos\\DotNetApp1\\DotNetApp1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DotNetApp1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\nasre\\source\\repos\\DotNetApp1\\DotNetApp1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DotNetApp1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-20T00:02:44.434Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
